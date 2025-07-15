@@ -1,0 +1,11 @@
+
+
+
+public class Narala{
+public static void main(String[] args) {
+    int n=123456;
+    int dig=String.valueOf(n).length();
+    System.out.print(dig);
+}}
+        
+
